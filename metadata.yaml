@@ -1,0 +1,27 @@
+_repo: When-the-West-Was-Young_29692
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bechdolt, Frederick R. (Frederick Ritchie)
+    alias: Bechdolt, Frederick Ritchie
+    birthdate: 1874
+    deathdate: 1950
+    gutenberg_agent_id: '34091'
+    url: http://www.gutenberg.org/2009/agents/34091
+description: ''
+gutenberg_issued: '2009-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- History'
+- !lcc 'PS'
+title: When the West Was Young
+url: http://www.gutenberg.org/ebooks/29692
