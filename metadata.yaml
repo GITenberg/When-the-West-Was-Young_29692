@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34091'
     url: http://www.gutenberg.org/2009/agents/34091
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29692#When-the-West-Was-Young
 gutenberg_issued: '2009-08-15'
 gutenberg_type: Text
 identifiers:
